@@ -1,6 +1,6 @@
 # 🚀 Portfólio em React
 
-Este é um portfólio em React + Vite + TailwindCSS, com suporte a modo escuro.
+Este é um portfólio em React + Vite + TailwindCSS
 
 ## 🔥 Tecnologias
 
