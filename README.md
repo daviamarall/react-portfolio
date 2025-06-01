@@ -1,6 +1,6 @@
 # 🚀 Portfólio em React
 
-Este é um portfólio profissional desenvolvido em React + Vite + TailwindCSS, com suporte a modo escuro.
+Este é um portfólio em React + Vite + TailwindCSS, com suporte a modo escuro.
 
 ## 🔥 Tecnologias
 
@@ -35,4 +35,4 @@ Recomendado realizar deploy via [Vercel](https://vercel.com/).
 
 ---
 
-Feito com 💙 por [Seu Nome]
+Feito com 💙 por Davi Amaral
