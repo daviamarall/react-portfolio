@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className={darkMode ? 'dark' : ''}>
-      <div className="bg-white dark:bg-zinc-900 min-h-screen">
+      <div className="bg-white dark:bg-zinc-900 min-h-screen text-black dark:text-white transition-colors duration-300">
         <Navbar darkMode={darkMode} setDarkMode={setDarkMode} />
         <Home />
         <About />
