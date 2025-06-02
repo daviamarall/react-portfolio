@@ -1,11 +1,11 @@
-import { FaLinkedin } from "react-icons/fa";
+import { FaLinkedin, FaWhatsapp } from "react-icons/fa";
 
 function Contact() {
   return (
     <section className="p-10">
       <h2 className="text-3xl mb-4">Contato</h2>
       <p>
-        Entre em contato comigo pelo LinkedIn ou pelo telefone. Estou aberto a novas conexões e oportunidades!
+        Entre em contato comigo pelo LinkedIn ou pelo Cel/Whatsapp. Estou aberto a novas conexões e oportunidades!
       </p>
       <p className="flex items-center space-x-2 mt-4">
         <FaLinkedin className="text-blue-600" size={24} />
@@ -18,9 +18,9 @@ function Contact() {
           linkedin.com/in/daviamarallz
         </a>
       </p>
-      <p className="mt-2">
-        📞{" "}
-        <a href="tel:+5534999900889" className="hover:underline">
+      <p className="flex items-center mt-2">
+        <FaWhatsapp className="text-green-500" size={24} />{" "}
+        <a href="https://api.whatsapp.com/send?phone=5534999900889" className="hover:underline ml-2">
           +55 34 99990-0889
         </a>
       </p>
