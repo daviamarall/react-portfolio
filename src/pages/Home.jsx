@@ -4,7 +4,7 @@ function Home() {
       <div className="flex flex-col justify-center items-center px-4">
         <h1 className="text-5xl font-bold mb-4">Prazer, eu sou o Davi!</h1>
         <p className="text-center text-sm sm:text-base whitespace-normal sm:whitespace-nowrap">
-          Software Engineer | React | JavaScript | Node.js | Express | MongoDB | SQL | Python | Github | AWS | Docker | Cloud | DevOps Enthusiast
+          Software Engineer | React | JavaScript | Node.js | Express | SQL | Python | Github | AWS | Docker 
         </p>
       </div>
     </section>
